@@ -51,7 +51,6 @@ Pillow==10.3.0  # Compatible version for Python 3.12.1
 pycparser==2.21
 pyparsing==3.0.6
 pyrsistent==0.18.0
-python-csv==0.0.13
 python-dateutil==2.8.2
 python-decouple==3.8
 pytz==2023.3
