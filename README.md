@@ -1,6 +1,6 @@
 # Retail UI Dashboard
 
-## How to use it
+## How to use it -- Follow this
 
 ```bash
 
