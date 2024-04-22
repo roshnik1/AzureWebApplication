@@ -69,6 +69,7 @@ def upload_files():
 
     return redirect(url_for('home_blueprint.index'))
     
+# Function to push data to mysql -- ATUL -- ask him to explain
 
 def mysqlpush(filename):
     engine = create_engine('mysql+pymysql://flszhwhgye:5Q36145E87LWYMIQ$@cloudprojects-mysqlserver.mysql.database.azure.com/testing')
