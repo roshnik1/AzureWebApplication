@@ -27,7 +27,6 @@ flask-restx==0.5.1
 Flask-SQLAlchemy==2.5.1
 Flask-WTF==0.15.1
 fonttools==4.28.3
-greenlet==1.1.2
 gunicorn==20.1.0
 h11==0.12.0
 idna==3.3
@@ -37,7 +36,6 @@ itsdangerous==2.0.1
 jsonschema==4.2.1
 jtutils==0.0.8
 kiwisolver==1.3.2
-leven==1.0.4
 MarkupSafe==2.0.1
 matplotlib==3.5.0
 nose
